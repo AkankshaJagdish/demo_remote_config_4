@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630334338334",
+    "project_id": "fir-remote-config-4",
+    "storage_bucket": "fir-remote-config-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630334338334:android:8311c25d7ff6b0b723050f",
+        "android_client_info": {
+          "package_name": "com.demo_remote_config_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630334338334-i9v10rflleb7796gkksjofg0226tna3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHKIA505hYX8-l8bckeHRaYzL8i5Dggwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630334338334-i9v10rflleb7796gkksjofg0226tna3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
